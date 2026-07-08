@@ -16,7 +16,7 @@
 ⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀
 ```
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=9B8FCE&center=true&vCenter=true&width=540&lines=KuugaDrive;Full+Stack+Developer;Data+Enthusiast;Golang+%26+Laravel+Backend;ヨルシカをずっと聴いている" alt="Typing Animation" />
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=9B8FCE&center=true&vCenter=true&width=540&lines=KuugaDrive;Full+Stack+Developer;Data+Enthusiast;Golang+%26+Laravel+Backend;ヨルシカをずっと聴いている)](https://git.io/typing-svg)
 
 <br>
 
