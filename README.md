@@ -95,14 +95,14 @@ obsessions :
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Syukranda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syukranda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=KuugaDrive&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuugaDrive&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Syukranda&theme=tokyonight&hide_border=true&background=0d1117)
+![GitHub Streak](https://streak-stats.demolab.com/?user=KuugaDrive&theme=tokyonight&hide_border=true&background=0d1117)
 
 </div>
 
