@@ -66,7 +66,7 @@ obsessions :
   "backend" : ["Golang", "Laravel", "PHP"],
   "data"    : ["Python", "Pandas", "NumPy"],
   "tools"   : ["Git", "VS Code", "Linux"],
-  "learning": ["Data Science", "REST API", "Clean Architecture"]
+  "learning": ["Data Science", "REST API", "Researching"]
 }
 ```
 
