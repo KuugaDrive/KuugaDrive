@@ -91,8 +91,6 @@ obsessions :
 ---
 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=KuugaDrive&theme=tokyonight&hide_border=true&background=0d1117)
-
 </div>
 
 ---
