@@ -22,7 +22,7 @@
 ## `$ whoami`
 
 ```yaml
-name       : Syukranda
+name       : Syukranda (KuugaDrive)
 pronouns   : he/him
 location   : Indonesia 🌿
 status     : always building something...
@@ -134,6 +134,6 @@ obsessions :
 
 *Thanks for visiting — like the wind in Matasaburo, I hope something here stays with you.* 🍃
 
-![Profile Views](https://komarev.com/ghpvc/?username=Syukranda&color=9b8fce&style=flat-square&label=visitors)
+![Profile Views](https://komarev.com/ghpvc/?username=KuugaDrive&color=9b8fce&style=flat-square&label=visitors)
 
 </div>
