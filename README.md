@@ -24,13 +24,7 @@
 
 <br>
 
-![](https://img.shields.io/badge/-HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![](https://img.shields.io/badge/-CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![](https://img.shields.io/badge/-JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
 ![](https://img.shields.io/badge/-Go-0d1117?style=for-the-badge&logo=go&logoColor=00ADD8)
-![](https://img.shields.io/badge/-Laravel-0d1117?style=for-the-badge&logo=laravel&logoColor=FF2D20)
-![](https://img.shields.io/badge/-Git-0d1117?style=for-the-badge&logo=git&logoColor=F05033)
 ![](https://img.shields.io/badge/-Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 </div>
@@ -95,24 +89,6 @@
 <br>
 
 ---
-
-## `$ git log --stat`
-
-<div align="center">
-
-<br>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=KuugaDrive&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=9b8fce&icon_color=9b8fce"/>
-&nbsp;
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuugaDrive&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9b8fce"/>
-
-<br><br>
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=KuugaDrive&theme=tokyonight&hide_border=true&background=0d1117&ring=9b8fce&fire=9b8fce&currStreakLabel=9b8fce)
-
-<br>
-
-</div>
 
 ---
 
