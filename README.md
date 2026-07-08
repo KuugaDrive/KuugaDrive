@@ -103,7 +103,7 @@
   │                                                          │
   │        心  以  外  は  偽  物  だ                        │
   │                                                          │
-  │        "Everything except the heart is fake."            │
+  │        "That's Why I Gave Up on Music."            │
   │                                        — Yorushika       │
   │                                                          │
   │        So I pour my heart into everything I build.       │
