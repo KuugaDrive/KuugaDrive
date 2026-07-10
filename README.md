@@ -38,7 +38,7 @@ Y?!?5P5PPPP55YYJJJYJYYYYY5Y555555PPPGGBBBBBBBBBBB#
 
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=9B8FCE&center=true&vCenter=true&width=540&lines=Syukranda;Full+Stack+Developer;Data+Enthusiast;Golang+%26+Laravel+Backend;ヨルシカをずっと聴いている)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=9B8FCE&center=true&vCenter=true&width=540&lines=Syukranda;Full+Stack+Developer(InMyDream);Data+Enthusiast;Golang+%26+Laravel+Backend;ヨルシカをずっと聴いている)](https://git.io/typing-svg)
 
 <br>
 
